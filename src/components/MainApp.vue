@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <h2 class="hero">Il sono il componente AppHero!</h2>
+    <h3 class="main-vue">Il sono il componente MainVue!</h3>
 </template>
 
 <style scoped></style>
