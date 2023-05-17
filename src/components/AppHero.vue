@@ -3,7 +3,12 @@
 </script>
 
 <template>
-    <h2 class="hero">Il sono il componente AppHero!</h2>
+    <img src="https://www.calcionow.it/wp-content/uploads/2023/05/Calciomercato-Lautaro-Martinez-Inter-Tottenham-Kane.jpg"
+        alt="">
 </template>
 
-<style scoped></style>
+<style scoped>
+h2 {
+    color: red;
+}
+</style>
